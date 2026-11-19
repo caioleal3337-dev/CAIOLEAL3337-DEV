@@ -1,4 +1,5 @@
 ## Hi there 👋
+Eu sou o Caio uso as linguagens html e css e estou iniciando o aprendizado em javascript e react.
 
 <!--
 **caioleal3337-dev/CAIOLEAL3337-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
